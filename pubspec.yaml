@@ -1,0 +1,47 @@
+name: mypocket
+description: "My Pocket"
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+  # FIREBASE
+
+  firebase_core: ^3.2.0
+  firebase_storage: ^12.1.1
+  cloud_firestore: ^5.1.0
+
+  # STATE MANAGEMENT
+
+  get: ^4.6.5
+  intl: ^0.19.0
+  shared_preferences: ^2.2.3
+
+  # FEATURES
+
+  image_picker: ^0.8.7+5
+
+  # ANIMATION
+
+  shimmer: ^3.0.0
+  flutter_spinkit: ^5.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+  fonts:
+    - family: Poly
+      fonts:
+        - asset: assets/fonts/Poly-Regular.ttf
+

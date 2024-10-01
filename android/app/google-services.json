@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671626125541",
+    "project_id": "mypocket-45afe",
+    "storage_bucket": "mypocket-45afe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671626125541:android:8f0253079d65d00521f40c",
+        "android_client_info": {
+          "package_name": "com.my.pocket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz7qSjbMSOuI55CQ72YhFQF-1y8KP37og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
