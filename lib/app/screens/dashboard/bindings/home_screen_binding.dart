@@ -9,3 +9,6 @@ class BookingDetailScreenBinding extends Bindings {
     );
   }
 }
+
+
+
